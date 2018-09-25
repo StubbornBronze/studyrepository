@@ -8,4 +8,9 @@ public class First {
         int b = 2;
         System.out.println(a+b);
     }
+
+
+    public void test(){
+        System.out.println("hello");
+    }
 }
